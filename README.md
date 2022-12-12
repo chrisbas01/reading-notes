@@ -1,6 +1,5 @@
-# My first online notes
+# My first online notes 😍
 
- 😍
 ## Here is a link to my github portfolio: 
 
 [My github portfolio] (https://github.com/chrisbas01)
