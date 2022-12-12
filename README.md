@@ -2,7 +2,7 @@
 
 ## Here is a link to my github portfolio: 
 
-[My github portfolio] (https://github.com/chrisbas01)
+[My github portfolio](https://github.com/chrisbas01)
 
 ### What is "growth mindset" to me? 
 1. I believe a growth mindset begins with the ability to adapt.
