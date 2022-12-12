@@ -1,6 +1,6 @@
 # My first online notes
 
-:smile: 😍
+ 😍:smile: 
 ## Here is a link to my github portfolio: 
 
 [My github portfolio] (https://github.com/chrisbas01)
