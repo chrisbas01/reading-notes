@@ -1,5 +1,6 @@
 # My first online notes 😍
-
+My name is Chris, I am from Washington state. I was born and raised here, but I have traveled around this world. 
+[me](https://canvas.instructure.com/courses/5713005/users/36722097#)
 ## Here is a link to my github portfolio: 
 
 [My github portfolio](https://github.com/chrisbas01)
