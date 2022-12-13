@@ -12,3 +12,4 @@ My name is Chris, I am from Washington state. I was born and raised here, but I 
 2. There is always more then one way to solve a problem, so don't be set in one way of thinking.
 3. Be willing to admit you may be wrong or that you may not understand something.
 4. You must always be willing to ask for help (two heads are better than one.
+[reading notes 1](https://chrisbas01.github.io/reading-notes/Reading-Assignment 1.md)
