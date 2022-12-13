@@ -13,3 +13,4 @@ My name is Chris, I am from Washington state. I was born and raised here, but I 
 3. Be willing to admit you may be wrong or that you may not understand something.
 4. You must always be willing to ask for help (two heads are better than one.
 [reading notes 1](https://chrisbas01.github.io/reading-notes/Reading-Assignment-1)
+[Table of Contents](https://chrisbas01.github.io/reading-notes/table-of-contents)
