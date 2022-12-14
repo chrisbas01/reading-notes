@@ -8,7 +8,7 @@
 
 -[reading notes 3](notes-3)
 
--[readin notes 4](notes-4.md)
+-[reading notes 4](notes-4.md)
 
 -[reading notes 5](notes-5.md)
 
