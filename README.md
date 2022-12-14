@@ -1,5 +1,5 @@
 #Notes for class 102
-
+[About me](aboutme.md)
 [reading notes 1](reading-notes-1.md)
 [reading notes 2](notes-2.md)
 [reading notes 3](notes-3.md)
