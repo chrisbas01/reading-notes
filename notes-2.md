@@ -1,0 +1,1 @@
+In reading day to we learned more about html and its roll in making a website. It also went over different tags and atrabutes used with html. we also talked about css's roll in building a website. 
