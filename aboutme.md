@@ -14,4 +14,4 @@ My name is Chris, I am from Washington state. I was born and raised here, but I 
 4. You must always be willing to ask for help (two heads are better than one.
 
 
-[Table of Contents](https://chrisbas01.github.io/reading-notes/README.md)
+[Table of Contents](https://chrisbas01.github.io/reading-notes/)
