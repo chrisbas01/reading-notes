@@ -20,7 +20,7 @@
 
 # Notes for class 201 Foundations of Software Development
 
--[reading notes 1](notes-9)
+-[Class 01.md notes](notes-9)
 
 -[reading notes 2](notes-10)
 
