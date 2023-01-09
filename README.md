@@ -50,6 +50,7 @@
 
 -[reading notes 15](notes-23)
 
+<<<<<<< HEAD
 # Notes for class 301 Intermediate Software Development
 
 -[reading notes 1](notes-24)
@@ -113,3 +114,4 @@
 -[reading notes 14](notes-52)
 
 -[reading notes 15](notes-53)
+=======
